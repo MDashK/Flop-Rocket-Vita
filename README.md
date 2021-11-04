@@ -28,21 +28,23 @@ You can get the game here: [https://play.google.com/store/apps/details?id=com.bs
 ## Hashes
 The hash information of your **original, unaltered Android "game.droid"** file should be:
 
-**MD5**: xxx
+**MD5**: 23805e428ed1ec5c652cf75b16b6490b
 
-**CRC32**: xxx
+**CRC32**: 175ea41a
 
 The hash information of your **modified, PSVita ready "game.win"** file should be:
 
-**MD5**: xxx
+**MD5**: 1b321bdf0cd0bdd7acd2a081078c6b77
 
-**CRC32**: xxx
+**CRC32**: dbb3ac55
 
 If these hashes do not match, then something went wrong.
 
 ## Things to keep in mind:
 1. The game works with button input and with **touchscreen functionality**. In the shop menu, for example, you need to use the touchscreen to scroll the list and buy the items.
-2. The game saves automatically when you purchase items on the shop, lose or exit gameplay, so you can press the PS button and exit the game in the title screen safely.
+2. You can also use all the buttons and paly the game easily using touchscreen. There's a sidewheel on the left (more options in the Pause menu) to turn the ship and touch the screen to throttle.
+3. **Start** button will pause the game mid-gameplay, no need to use the "Pause" icon in the touchscreen.
+4. The game saves automatically when you purchase items on the shop, lose or exit gameplay, so you can press the PS button and exit the game in the title screen safely.
 
 ## Credits
 Big Special Thanks to the "Butterscotch Shenanigans" devs for releasing the source code and SilicaAndPina for the GayMaker tool.
